@@ -69,7 +69,7 @@ VueJsを使用
 ### フロントエンドの特徴1
 
  * UXが重要なシーンではフロントリッチで数値計算等も行う⇒ Typescriptを使っているのはそのため。
-<img src="assets/img/shihonseisaku.jpg">
+<img src="assets/img/shihonseisaku.gif">
   
 ---
 
