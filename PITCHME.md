@@ -17,13 +17,13 @@
 
 ---
 
- ---?image=assets/img/startup.jpg&position=left&size=50% 100%
-
 ### サービスについて
 
  * スタートアップが資金調達するサポートをするサービスです
  * スタートアップ・投資家・アドバイザー向けの3サービスを提供しています
  * ※3サービスのキャプチャが並ぶイメージ
+
+![startup](assets/img/startup.jpg)
 
 ---
 
