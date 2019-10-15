@@ -23,7 +23,7 @@
  * スタートアップ・投資家・アドバイザー向けの3サービスを提供しています
  * ※3サービスのキャプチャが並ぶイメージ
  
- ---?image=assets/im/startup.jpg&position=left&size=50% 100%
+ ---?image=assets/img/startup.jpg&position=left&size=50% 100%
 
 ---
 
