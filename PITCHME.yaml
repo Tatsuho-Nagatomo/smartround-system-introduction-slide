@@ -2,10 +2,10 @@
 theme : sky
 
 #レイアウトの設定
-Layout : top-left
+layout : top-left
 
 #ロゴアイコンの設定
-logo : assets/img/logo.
+logo : assets/img/logo.svg
 logo-position : top-right
 
 #フットノートの設定
