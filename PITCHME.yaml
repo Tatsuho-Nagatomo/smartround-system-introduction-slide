@@ -1,6 +1,9 @@
 #テーマの設定
 theme : sky
 
+#タイトル設定
+title : "smartroundを支える技術"
+
 #レイアウトの設定
 layout : top-left
 
