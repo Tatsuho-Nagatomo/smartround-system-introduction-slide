@@ -56,7 +56,7 @@ https://github.com/smartround/smartround-v2のREADMEやWantedlyに書いてあ�
 
 VueJsを使用
  * スタートアップらしくモダンなUIを漸進的に適用していきたい
- * プログレッシブフレームワークのコンセプトで打ち出しているVueJsがちょうどよかった（https://jp.vuejs.org/v2/guide/index.html）
+ * プログレッシブフレームワークのコンセプトで打ち出しているVueJsがちょうどよかったhttps://jp.vuejs.org/v2/guide/index.html
 
 ---
 
