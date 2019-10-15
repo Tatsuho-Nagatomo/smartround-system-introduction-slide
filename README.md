@@ -1,1 +1,0 @@
-# smartround-system-introduction-slide
