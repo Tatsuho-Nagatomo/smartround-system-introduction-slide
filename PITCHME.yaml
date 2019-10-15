@@ -5,7 +5,7 @@ theme : sky
 title : "smartroundを支える技術"
 
 #レイアウトの設定
-layout : top-left
+layout : center
 
 #ロゴアイコンの設定
 logo : assets/img/logo.svg
